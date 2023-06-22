@@ -2,6 +2,14 @@
 
 GPT_BING-AI_Voice_Assistant-for-android-and-android-auto is an open-source voice assistant project designed for Android and Android Auto platforms. Powered by the advanced GPT-3.5 language model developed by OpenAI and integrated with Bing AI services, this voice assistant provides a seamless and intuitive conversational experience for users.
 
+## Deprecation Notice
+
+⚠️ **Deprecation Notice: OpenAI API Key Requirement** ⚠️
+
+Please note that as of a recent update, the OpenAI API key required for accessing the GPT-3.5 language model has become a paid service. The free usage tier is no longer available. As a result, this project may not be functional without a valid and active OpenAI API key.
+
+Please refer to the OpenAI website for more information on their pricing plans and API access: [OpenAI Pricing](https://openai.com/pricing)
+
 ## Key Features
 
 - **Natural Language Processing**: GPT_BING-AI_Voice_Assistant leverages the state-of-the-art GPT-3.5 model developed by OpenAI, combined with Bing AI services, to understand and respond to user queries in a human-like manner, making interactions more natural and engaging.
@@ -16,15 +24,15 @@ GPT_BING-AI_Voice_Assistant-for-android-and-android-auto is an open-source voice
 
 ## Getting Started
 
-To get started with GPT_BING-AI_Voice_Assistant, please refer to the [documentation](https://github.com/yourusername/GPT_BING-AI_Voice_Assistant/wiki) for installation instructions, usage guidelines, and API references.
+To get started with GPT_BING-AI_Voice_Assistant, please refer to the [documentation](https://github.com/alen-mon/GPT_BING-AI_Voice_Assistant/wiki) for installation instructions, usage guidelines, and API references.
 
 ## Contributions
 
-Contributions are welcome! If you'd like to contribute to GPT_BING-AI_Voice_Assistant, please follow the guidelines outlined in the [contribution documentation](https://github.com/yourusername/GPT_BING-AI_Voice_Assistant/blob/main/CONTRIBUTING.md). We appreciate your support in making this voice assistant even better.
+Contributions are welcome! If you'd like to contribute to GPT_BING-AI_Voice_Assistant, please follow the guidelines outlined in the [contribution documentation](https://github.com/alen-mon/GPT_BING-AI_Voice_Assistant/blob/main/CONTRIBUTING.md). We appreciate your support in making this voice assistant even better.
 
 ## License
 
-GPT_BING-AI_Voice_Assistant is released under the [MIT License](https://github.com/yourusername/GPT_BING-AI_Voice_Assistant/blob/main/LICENSE). Feel free to use, modify, and distribute the software according to the terms of the license.
+GPT_BING-AI_Voice_Assistant is released under the [MIT License](https://github.com/alen-mon/GPT_BING-AI_Voice_Assistant/blob/main/LICENSE). Feel free to use, modify, and distribute the software according to the terms of the license.
 
 ## Acknowledgments
 
