@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="chat_recycler_view" type="id" />
+    <item name="message_edit_text" type="id" />
+    <item name="send_button" type="id" />
+</resources>

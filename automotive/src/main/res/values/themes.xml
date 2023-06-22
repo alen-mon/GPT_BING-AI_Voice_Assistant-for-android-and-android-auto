@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Edge_GPT_Voice_Assistant" parent="android:Theme.Material.Light.DarkActionBar" />
+</resources>
